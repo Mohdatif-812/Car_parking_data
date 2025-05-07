@@ -8,4 +8,4 @@ psycopg2-binary # PostgreSQL database adapter for Python
 pytest
 pytest-cov
 python-dotenv
-pyjwt
+pyJWT
