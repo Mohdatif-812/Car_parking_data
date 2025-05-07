@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Parking Backend API (No Authentication)
 
 This repository contains the backend implementation for a Car Parking System API built using Flask and PostgreSQL. It provides endpoints to manage parking lot information, user data, and parking sessions.
@@ -136,3 +137,6 @@ Refer to app.py for detailed model definitions and parking_backup.sql for the ex
 
 
 
+=======
+# Car_parking_data
+>>>>>>> 6e2fac5cbf1bae91228b9afee1b98b52c3a6fb99
